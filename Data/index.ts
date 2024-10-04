@@ -20,7 +20,7 @@ export const projects = [
     title: "TechLyft - Ecommerce App",
     des: "Shop with ease on our e-commerce platform, where you can explore, add to cart, and securely purchase products, all while enjoying a smooth and seamless shopping experience.",
     img: "/techlyft-p-2.png",
-    iconLists: ["/re.svg", "/ts.svg"],
+    iconLists: ["/re.svg","/sass.svg", "/ts.svg", "/stripe.ico"],
     link: "https://tech-lyft-ecommerce.vercel.app/",
     github: "https://github.com/CodeDevArya/TechLyft-Ecomm-2024",
   },
@@ -29,7 +29,7 @@ export const projects = [
     title: "TrueFeedback - Feedback App",
     des: "Share your thoughts with TrueFeedback, a powerful app that lets users submit, view, and manage feedback with ease, fostering transparent and meaningful insights.",
     img: "/trueFeedback-p-3.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/auth-js.png"],
     link: "https://true-feedback-phi.vercel.app/",
     github: "https://github.com/CodeDevArya/TrueFeedback",
   },
@@ -108,7 +108,7 @@ export const socialMedia = [
   {
     id: 2,
     img: "/twit.svg",
-    link: "https://twitter.com/aryah144",
+    link: "https://x.com/himanshu_a92998",
   },
   {
     id: 3,

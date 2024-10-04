@@ -182,7 +182,7 @@ const TechStack = () => {
         </p>
 
         <div className="relative">
-          <div className="flex justify-between mt-16 max-md:flex-col">
+          <div className="flex justify-between mt-16 max-md:flex-col max-md:px-0">
             <TechRod title="Frontend" technologies={frontendTechs} />
             <TechRod title="Backend" technologies={backendTechs} />
           </div>

@@ -38,7 +38,7 @@ const ProjectSection = () => {
                         key={i}
                         className="inline-flex items-center px-3 py-1 rounded-full text-sm font-medium bg-gray-800 text-gray-300"
                       >
-                        <img src={tech} alt="" />
+                        <Image src={tech} alt="" width={25} height={25}/>
                       </span>
                     ))}
                   </div>
