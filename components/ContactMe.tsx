@@ -4,7 +4,7 @@ import { FaBriefcase } from "react-icons/fa6";
 const ContactMe = () => {
   return (
     <div className="fixed bottom-10 right-5 max-sm:mx-5 z-[50000]">
-      <a href="mailto:aryah144@gmail.com">
+      <a href="mailto:contact.himanshu.arya@gmail.com">
         <button
           className=" fixed bottom-6 right-6 w-[5rem] h-[5rem] md:w-20 md:h-20 text-white rounded-full flex items-center justify-center shadow-lg transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-white focus:ring-opacity-50 border-[#393BB2] border-2"
           style={{

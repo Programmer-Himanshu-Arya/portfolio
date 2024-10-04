@@ -20,7 +20,7 @@ export const projects = [
     title: "TechLyft - Ecommerce App",
     des: "Shop with ease on our e-commerce platform, where you can explore, add to cart, and securely purchase products, all while enjoying a smooth and seamless shopping experience.",
     img: "/techlyft-p-2.png",
-    iconLists: ["/re.svg","/sass.svg", "/ts.svg", "/stripe.ico"],
+    iconLists: ["/re.svg", "/sass.svg", "/ts.svg", "/stripe.ico"],
     link: "https://tech-lyft-ecommerce.vercel.app/",
     github: "https://github.com/CodeDevArya/TechLyft-Ecomm-2024",
   },
@@ -106,13 +106,8 @@ export const socialMedia = [
     link: "https://github.com/CodeDevArya",
   },
   {
-    id: 2,
-    img: "/twit.svg",
-    link: "https://x.com/himanshu_a92998",
-  },
-  {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/himanshu-arya-8b645a313",
+    link: "https://www.linkedin.com/in/code-dev-arya",
   },
 ];
