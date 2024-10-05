@@ -106,6 +106,11 @@ export const socialMedia = [
     link: "https://github.com/CodeDevArya",
   },
   {
+    id: 2,
+    img: "/instagram.svg",
+    link: "https://www.instagram.com/programmer.himanshu.arya?igsh=MTJ6aHNzbWwxMnBpbQ==",
+  },
+  {
     id: 3,
     img: "/link.svg",
     link: "https://www.linkedin.com/in/code-dev-arya",
